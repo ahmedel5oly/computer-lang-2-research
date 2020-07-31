@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile Application for Corona Virus</string>
+    <string name="sum">the result</string>
+    <string name="symptom2">Difficulty breathing or shortness of breath, chest pain or pressure, loss of speech or movement</string>
+    <string name="symptom3">Sore throat,loss of taste or smell, a rash on skin</string>
+    <string name="symptom1">Muscle aches,fever, dry, cough, tiredness</string>
+</resources>
